@@ -1,4 +1,4 @@
-# Flutter Basqet
+# Flutter Fincra
 
 This package makes it easy to use the fincra in your flutter project.
 
