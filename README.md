@@ -19,7 +19,7 @@ FincraFlutter.launchFincra(
     publicKey:"<public_test_key|public_prod_key>",
     amount: "4000",
     name: "oyee",
-    phoneNumber: "+2348087307896",
+    phoneNumber: "+2348012345679",
     currency: "NGN",
     email: "test@gmail.com",
     feeBearer: "business",
