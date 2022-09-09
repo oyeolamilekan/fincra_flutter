@@ -21,7 +21,7 @@ FincraFlutter.launchFincra(
     name: "oyee",
     phoneNumber: "+2348087307896",
     currency: "NGN",
-    email: "oye@qww.com",
+    email: "test@gmail.com",
     feeBearer: "business",
     onSuccess: (data) {},
     onError: (data) {},    
